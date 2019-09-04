@@ -8,6 +8,7 @@ package cn.kgc.test;
  */
 public class Controller {
     public static void main(String[] args) {
+        System.out.println("这是第一个分支");
         System.out.println("hello word");
     }
 }
