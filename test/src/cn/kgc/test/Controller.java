@@ -7,5 +7,8 @@ package cn.kgc.test;
  * Time: 11:11
  */
 public class Controller {
+    public static void main(String[] args) {
+        System.out.println("hello word");
+    }
 }
 
